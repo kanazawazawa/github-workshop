@@ -58,13 +58,16 @@ Leave a comment
 `Create pull request` クリック  
 
 
-（参考）プルリクエストがマージされた後にプルして最新の状態にする  
+（参考）Fork を最新にする
+GitHub `Fetch upstream` クリック  
+
+（参考）プルして最新の状態にする  
 ```bash
 git pull origin main
 ```
 
 ### Step.7 実践
-
+コントリビューションしてみよう
 
 ## 参考情報
 
@@ -106,6 +109,12 @@ git config --global user.email youraccount@example.com
 ```bash
 git confit --list
 ```
+### memo
+ワークツリー
+↓
+ステージングエリア
+↓
+Gitディレクトリ
 
 ### Visual Studio Code Install
 https://code.visualstudio.com/
