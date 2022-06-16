@@ -58,7 +58,7 @@ Leave a comment
 `Create pull request` クリック  
 
 
-（参考）Fork を最新にする
+（参考）Fork を最新にする  
 GitHub `Fetch upstream` クリック  
 
 （参考）プルして最新の状態にする  
@@ -110,11 +110,11 @@ git config --global user.email youraccount@example.com
 git confit --list
 ```
 ### memo
-ワークツリー
+ワークツリー  
 ↓
-ステージングエリア
+ステージングエリア  
 ↓
-Gitディレクトリ
+Gitディレクトリ  
 
 ### Visual Studio Code Install
 https://code.visualstudio.com/
