@@ -111,9 +111,9 @@ git confit --list
 ```
 ### memo
 ワークツリー  
-↓
+↓  
 ステージングエリア  
-↓
+↓  
 Gitディレクトリ  
 
 ### Visual Studio Code Install
